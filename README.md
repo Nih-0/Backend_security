@@ -24,3 +24,5 @@ It includes features like password encryption, database login, CRUD operations, 
 1. Clone the project:
    ```bash
    git clone https://github.com/Nih-0/Backend_security.git
+
+   KINDLY VISIT MASTER BRANCH 
