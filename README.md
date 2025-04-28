@@ -1,11 +1,9 @@
-# Backend_security
-Developed a secure and robust backend system using Spring Boot integrated with Spring Security. Implemented user authentication and authorization with a strong focus on data protection and security best practices.
 # Backend Security System
 
 This project is a backend application focused on **user authentication** and **security**.  
 It includes features like password encryption, database login, CRUD operations, and token-based authentication using **JWT** (JSON Web Tokens).
 
-## 🚀 Tech Stack
+##  Tech Stack
 - Java
 - Spring Boot
 - Spring Security
@@ -13,7 +11,7 @@ It includes features like password encryption, database login, CRUD operations, 
 - JWT (JSON Web Token)
 - Maven
 
-## ✨ Features
+##  Features
 - User Registration (with encrypted passwords)
 - User Login (with database authentication)
 - JWT Token generation and validation
@@ -22,7 +20,7 @@ It includes features like password encryption, database login, CRUD operations, 
 - Password encoding using BCrypt
 - Exception handling and response management
 
-## 🛠️ How to Run
+##  How to Run
 1. Clone the project:
    ```bash
    git clone https://github.com/Nih-0/Backend_security.git
